@@ -1,5 +1,7 @@
 ### Hey, I'm Brent Van Hese!
 
+Portfolio: https://brentvanhese.be/
+LinkedIn: https://www.linkedin.com/in/brent-van-hese/
 <!--
 **brentvanhese/brentvanhese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
